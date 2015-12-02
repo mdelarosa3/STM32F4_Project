@@ -10,11 +10,11 @@
 
 RCC_ClocksTypeDef RCC_Clocks;
 int ms_Ticks; /* counts 1ms timeTicks       */
-// Responses blue tooth variables
-// char BT_CMD  = 1;
-// char BT_AOK  = 2;
-// char BT_CONN = 3;
-// char BT_Done = 4;
-// char BT_state = 0;
-//
-// char response_rcvd = 0;
+   Responses blue tooth variables
+   char BT_CMD  = 1;
+   char BT_AOK  = 2;
+   char BT_CONN = 3;
+   char BT_Done = 4;
+   char BT_state = 0;
+   
+   char response_rcvd = 0;
